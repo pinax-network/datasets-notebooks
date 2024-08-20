@@ -18,6 +18,10 @@ jupyter notebook
 
 ### Notebooks
 
+> [!TIP]
+>
+> Run directly in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pinax-network/datasets-notebooks/HEAD)
+
 #### [`block_sizes_estimates`](./block_sizes_estimates.ipynb)
 
 Using Ethereum's block header `size` field to divide block ranges into equal sizes. Useful for data sinks operations.
