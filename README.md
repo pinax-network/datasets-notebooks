@@ -1,6 +1,6 @@
 ## datasets-notebooks
 
-Visualize data from Pinax's datasets.
+> Visualize data from Pinax's datasets.
 
 ### Getting started
 
